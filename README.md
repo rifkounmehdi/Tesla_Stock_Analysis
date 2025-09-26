@@ -46,10 +46,3 @@ pip install -r requirements.txt
 Alternatively, the notebook can be opened directly in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<USERNAME>/Tesla-Stock-Analysis/blob/main/Tesla_stock_analysis.ipynb)
-
----
-
-## Next Steps
-- Extend the analysis to other stocks or indices (e.g., Apple, S&P500).
-- Add additional technical indicators (EMA, Bollinger Bands, RSI).
-- Implement and backtest simple trading strategies (e.g., moving average crossover).
